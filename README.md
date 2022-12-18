@@ -12,7 +12,6 @@
   <a href="https://github.com/qyopy">
     <img src="https://github-readme-stats.vercel.app/api?username=galaxyhax&show_icons=true&theme=github_dark&hide_border=true" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=galaxyhax&theme=github-dark-blue&hide_border=true" />
-    <img src="https://activity-graph.herokuapp.com/graph?username=galaxyhax&theme=react-dark" />
 </a>
 </p>
 
